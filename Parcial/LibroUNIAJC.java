@@ -1,7 +1,7 @@
-public class LibroIUAC extends LibroDeTexto {
+public class LibroUNIAJC extends LibroDeTexto {
     private String facultad;
     
-    public LibroIUAC(String titulo, String autor, String curso, String facultad) {
+    public LibroUNIAJC(String titulo, String autor, String curso, String facultad) {
         super(titulo, autor, curso);
         this.facultad = facultad;
     }

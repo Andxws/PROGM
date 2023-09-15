@@ -11,7 +11,7 @@ public class LibroUNIAJC extends LibroDeTexto {
         super.imprimirInformacion();
         System.out.println("Facultad: " + facultad);
     }
-    
+
     public String getFacultad() {
         return facultad;
     }
@@ -19,4 +19,5 @@ public class LibroUNIAJC extends LibroDeTexto {
     public void setFacultad(String facultad) {
         this.facultad = facultad;
     }
+    
 }

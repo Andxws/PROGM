@@ -20,4 +20,3 @@ public class Novela extends Libro {
         this.tipo = tipo;
     }
 }
- 

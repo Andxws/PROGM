@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        LibroUNIAJC libroIUAC = new LibroUNIAJC("Fundamentos de Programación", "UNIAJC", "Programación", "Ingenerias");
+        LibroUNIAJC libroIUAC = new LibroUNIAJC("Fundamentos de Programación", "UNIAJC", "Programación", "Ingenierías");
         Novela novela = new Novela("El lobo del Mar", "Jack Londom", "Aventuras");
         
         libroIUAC.setPrecio(45000);

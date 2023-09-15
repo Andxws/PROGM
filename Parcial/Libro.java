@@ -3,7 +3,7 @@
     private String autor;
     private float precio;
 
-    public Libro(String titulo, String autor) {
+    public Libro(String titulo, String autor, int i) {
         this.titulo = titulo;
         this.autor = autor;
     }
@@ -41,4 +41,4 @@
     }
 }
 
- 
+
